@@ -7,4 +7,4 @@
   - :bulb: [Medium articles](https://cromyhector.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/claude-r-hector-mba/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cromyhector_icons=true&theme=radical)
